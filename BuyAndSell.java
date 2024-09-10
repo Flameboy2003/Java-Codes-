@@ -1,6 +1,6 @@
 
 /*
-Question:
+Question: 121
 Write a Java program to determine the maximum profit that can be achieved from a given array of stock prices.
 The program should read the length of the array and its elements from the user, 
 then find the maximum profit that can be made by buying on one day and selling on another day in the future.
